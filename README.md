@@ -1,2 +1,2 @@
 # Mantis
-Fast and lightweight image previews
+Fast and lightweight JPEG previews generator
